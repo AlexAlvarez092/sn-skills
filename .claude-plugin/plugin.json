@@ -1,0 +1,12 @@
+{
+  "name": "sn-skills",
+  "description": "ServiceNow agent skills: build with Fluent and now-sdk, query a live instance read-only, and read the official product documentation.",
+  "version": "0.1.0",
+  "author": {
+    "name": "AlexAlvarez092",
+    "url": "https://github.com/AlexAlvarez092"
+  },
+  "repository": "https://github.com/AlexAlvarez092/sn-skills",
+  "license": "MIT",
+  "keywords": ["servicenow", "fluent", "now-sdk", "table-api", "documentation"]
+}
