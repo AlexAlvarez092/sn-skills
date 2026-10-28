@@ -2,11 +2,11 @@
 
 A plugin that bundles my ServiceNow agent skills in one installable package.
 
-| Skill | Purpose | Upstream |
+| Skill | Purpose |
 |---|---|---|
-| `servicenow-fluent` | Develop apps with Fluent (`.now.ts`) using `now-sdk explain` | [repo](https://github.com/AlexAlvarez092/servicenow-fluent) |
-| `servicenow-query` | Read-only Table API queries on a live instance via `now-sdk query` | [repo](https://github.com/AlexAlvarez092/servicenow-query) |
-| `servicenow-docs` | Search and read the official ServiceNow product docs | [repo](https://github.com/AlexAlvarez092/servicenow-docs) |
+| `servicenow-fluent` | Develop apps with Fluent (`.now.ts`) using `now-sdk explain` |
+| `servicenow-query` | Read-only Table API queries on a live instance via `now-sdk query` |
+| `servicenow-docs` | Search and read the official ServiceNow product docs |
 
 ## Install
 
